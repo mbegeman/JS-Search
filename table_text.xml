@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<table>
+	<SAM> SA-2 </SAM>
+	<range> 2NM </range>
+	<alt> 2ft </alt>
+	<g> 2g's </g>
+	<mission> To destroy two things </missions>
+	<variants> a/b </variants>
+</table>
+
+<table>
+	<SAM> SA-3 </SAM>
+	<range> 3NM </range>
+	<alt> 3ft </alt>
+	<g> 3g's </g>
+	<mission> To destroy three things </missions>
+	<variants> c/d/e </variants>
+</table>
